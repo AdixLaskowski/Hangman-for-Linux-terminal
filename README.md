@@ -45,5 +45,5 @@ Adding a word:
 ![Adding a word](screenshots/Add.png)
 
 Deleting a word:
-![Deleting a word](screenshots/delete.png)
+![Deleting a word](screenshots/Delete.png)
 
