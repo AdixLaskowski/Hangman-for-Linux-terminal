@@ -27,23 +27,23 @@ gcc main.c -lsqlite3 -o hangman
 ## Screenshots
 
 Menu:
-![screenshots/Menu.png]
+![Menu](screenshots/Menu.png)
 
 Game:
-![screenshots/Game.png]
+![Game](screenshots/Game.png)
 
 Guessed word:
-![screenshots/Success.png]
+![Guessed word](screenshots/Success.png)
 
 Faild:
-![screenshots/Failure.png]
+![Faild](screenshots/Failure.png)
 
 View all words:
-![screenshots/List.png]
+![All words](screenshots/List.png)
 
 Adding a word:
-![screenshots/Add.png]
+![Adding a word](screenshots/Add.png)
 
 Deleting a word:
-![screenshots/delete.png]
+![Deleting a word](screenshots/delete.png)
 
